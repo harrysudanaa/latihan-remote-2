@@ -8,5 +8,6 @@
 </head>
 <body>
     <h1>Saya sedang belajar git remote dari local ke Github.</h1>
+    <p>Ini adalah paragraf baru.</p>
 </body>
 </html>
