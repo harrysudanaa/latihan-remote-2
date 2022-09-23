@@ -9,5 +9,10 @@
 <body>
     <h1>Saya sedang belajar git remote dari local ke Github.</h1>
     <p>Ini adalah paragraf baru.</p>
+    <ul>
+        <li>Maxfit 61</li>
+        <li>Rover 84</li>
+        <li>Fizz K617 RGB</li>
+    </ul>
 </body>
 </html>
